@@ -1,6 +1,6 @@
 {
   "name": "wiply-avatar",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "React component for avataaars",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
